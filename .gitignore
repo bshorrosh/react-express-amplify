@@ -1,0 +1,12 @@
+# Frontend
+frontend/node_modules/
+frontend/.env
+
+# Backend
+backend/node_modules/
+backend/.env
+
+# Amplify
+amplify/\#current-cloud-backend/
+amplify/.config/
+amplify/logs/
